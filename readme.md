@@ -4,7 +4,7 @@
 Image classification model to classify eggs into three categories `crack,` `empty, and` `good`. The script reads in command line arguments, such as the path to the dataset, the type of model to use, the learning rate, and the batch size. It then defines transforms, datasets, and dataloaders based on these arguments.
 
 I used following details to train the model:
-- Model: EggClassifierV2, EggClassifierV2
+- Model: EggClassifierV1, EggClassifierV2
 - Dataset: https://www.kaggle.com/datasets/frankpereny/broken-eggs
 - Batch Size: 16
 - Learning Rate: 0.001
