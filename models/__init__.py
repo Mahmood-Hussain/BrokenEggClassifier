@@ -1,0 +1,2 @@
+from models.EggClassifierV1 import EggClassifierV1
+from models.EggClassifierV2 import EggClassifierV2
